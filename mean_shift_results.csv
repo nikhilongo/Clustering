@@ -1,0 +1,7 @@
+Preprocessing,Algorithm,n_clusters,Silhouette Score,Calinski-Harabasz Index,Davies-Bouldin Index
+none,mean_shift,3,Error,Error,Error
+none,mean_shift,4,Error,Error,Error
+none,mean_shift,5,Error,Error,Error
+normalize,mean_shift,3,Error,Error,Error
+normalize,mean_shift,4,Error,Error,Error
+normalize,mean_shift,5,Error,Error,Error

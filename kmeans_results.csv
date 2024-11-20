@@ -1,0 +1,7 @@
+Preprocessing,Algorithm,n_clusters,Silhouette Score,Calinski-Harabasz Index,Davies-Bouldin Index
+none,kmeans,3,0.5528,561.6278,0.662
+none,kmeans,4,0.4981,530.7658,0.7803
+none,kmeans,5,0.3679,456.3983,0.9238
+normalize,kmeans,3,0.5048,359.8451,0.7603
+normalize,kmeans,4,0.4451,314.473,0.9004
+normalize,kmeans,5,0.4448,270.7506,0.9249

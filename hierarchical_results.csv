@@ -1,0 +1,7 @@
+Preprocessing,Algorithm,n_clusters,Silhouette Score,Calinski-Harabasz Index,Davies-Bouldin Index
+none,hierarchical,3,Error,Error,Error
+none,hierarchical,4,Error,Error,Error
+none,hierarchical,5,Error,Error,Error
+normalize,hierarchical,3,Error,Error,Error
+normalize,hierarchical,4,Error,Error,Error
+normalize,hierarchical,5,Error,Error,Error
